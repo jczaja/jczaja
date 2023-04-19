@@ -1,7 +1,7 @@
 ### Hi there 👋 
 I'm  an open source developer focused on performance engineering and also enthusiast of automating mundane,repetitive tasks with Rust programming language.
 
-#### Technology I use:
+#### My github stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jczaja)
 
 ##### How to support my hobby projects:
