@@ -1,5 +1,12 @@
-### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jczaja&theme=tokyonight)
+### Hi there 👋 
+I'm  an open source developer focused on performance engineering and also enthusiast of automating mundane,repetitive tasks with Rust programming language.
+
+#### Technology I use:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jczaja)
+
+##### How to support my hobby projects:
+1. Buy me drink at: https://buycoffee.to/jczaja
+2. Contribute into some of my useful [projects](https://github.com/jczaja/e-trade-tax-return-pl-helper)
 
 <!--
 **jczaja/jczaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
