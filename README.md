@@ -1,6 +1,9 @@
 ### Hi there 👋 
 I'm  an open source developer focused on performance engineering and also enthusiast of automating mundane,repetitive tasks with Rust programming language.
 
+I'm leading maintainer of program to help gathering data from account statements to fill in the tax forms:
+[etradeTaxReturnHelper](https://github.com/RustInFinance/etradeTaxReturnHelper)
+
 #### My github stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jczaja)
 
